@@ -5,5 +5,7 @@ begin
 			('Will','Smith'),
 			('Sarah','Sobhani'),
 			('Shahin','Shahsafi'),
+			('Cyrus','Miles'),
+			('Rafael','Jackson'),
 			('Karim','Alkhalid');
 end
